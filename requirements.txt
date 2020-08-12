@@ -1,0 +1,11 @@
+streamlit
+pillow
+numpy
+pandas
+bert-extractive-summarizer
+spacy
+transformers
+nltk
+bs4
+pyttsx3
+keyboard
